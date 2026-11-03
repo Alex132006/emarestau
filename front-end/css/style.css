@@ -232,7 +232,7 @@ nav {
 .search-btn {
   background-color: #221f1f00;
   padding-left: 5px;
-  width: 250px;
+  width: 100%;
   opacity: 0.7;
   border-radius: 20px;
   border-color: #a17415;
